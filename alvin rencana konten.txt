@@ -4,7 +4,11 @@ RENCANA ALVIN
  * es6
  * framework
  * Fundamental data structure
+ * vue js
  
 - PHP FRAMEWORK
+ * laravel
+
  - Interview
  - Vlog
+ - pyton
