@@ -1,6 +1,8 @@
 RENCANA ALVIN
 
 - JAVASCRIPT
+ * es6
+ * framework
 - PHP FRAMEWORK
  - Interview
  - Vlog
