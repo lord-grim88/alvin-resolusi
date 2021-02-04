@@ -1,0 +1,4 @@
+ALVIN Resolusi
+ - Konsisten membuat konten 2 kali semingggu
+ - Membuat platform untuk pengelolaan video
+ - Membuat forum diskusi
