@@ -3,8 +3,11 @@ RENCANA ALVIN
 - JAVASCRIPT
  * es6
  * framework
- * Fundamental data structure
+
+ * angular
+ * react
  
 - PHP FRAMEWORK
+- laravel
  - Interview
  - Vlog
